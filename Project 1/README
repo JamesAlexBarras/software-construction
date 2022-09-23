@@ -1,0 +1,8 @@
+In this project the prompt was to take in the following: 
+loan amount, interest rate, monthly payment, 
+and to then output the number of months taken to pay off the loan as well as 
+the total interest paid. Also, a chart was outputted to 
+show the balance, payment, rate, interest, and principal for each month. 
+The main thing I learned from this project was the 
+utilization of .setf() and .precision() methods when specifying the format 
+for numerical outputs.
