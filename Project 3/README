@@ -1,0 +1,6 @@
+In this project the prompt was to read in numbers from two .txt files, 
+combine and sort the two sets of numbers, then output the sorted set of 
+numbers into a new created file. The main method of the project also uses 
+a friendly user interface. The main thing I learned from this project 
+was how to utilize stream objects and how to use associated methods such as 
+.open(), .close(), etc..
